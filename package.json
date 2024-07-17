@@ -16,6 +16,7 @@
     "@uploadthing/react": "^6.2.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "git-filter-repo": "^0.0.30",
     "lucide-react": "^0.314.0",
     "mongodb": "^6.6.2",
     "mongoose": "^8.4.0",
